@@ -1,0 +1,6 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libksba
+sdesc: "Debug info for libksba"
+ldesc: "This package contains files necessary for debugging the
+libksba package with gdb."
