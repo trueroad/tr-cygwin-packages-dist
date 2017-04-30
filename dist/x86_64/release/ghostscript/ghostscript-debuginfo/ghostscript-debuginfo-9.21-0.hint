@@ -1,0 +1,6 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: ghostscript
+sdesc: "Debug info for ghostscript"
+ldesc: "This package contains files necessary for debugging the
+ghostscript package with gdb."
