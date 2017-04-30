@@ -1,0 +1,6 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: pth
+sdesc: "Debug info for pth"
+ldesc: "This package contains files necessary for debugging the
+pth package with gdb."
