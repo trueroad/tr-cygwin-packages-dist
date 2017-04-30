@@ -1,0 +1,5 @@
+category: Libs
+requires:  
+sdesc: "The New GNU Portable Threads Library"
+ldesc: "nPth is a library to provide the GNU Pth API
+and thus a non-preemptive threads implementation."

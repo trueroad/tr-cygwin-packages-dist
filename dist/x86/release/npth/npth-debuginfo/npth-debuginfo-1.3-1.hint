@@ -1,0 +1,6 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: npth
+sdesc: "Debug info for npth"
+ldesc: "This package contains files necessary for debugging the
+npth package with gdb."
