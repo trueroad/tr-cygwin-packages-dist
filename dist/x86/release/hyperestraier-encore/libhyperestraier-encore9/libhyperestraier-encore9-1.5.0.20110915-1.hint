@@ -1,0 +1,5 @@
+category: Utils
+requires: cygwin libiconv2 libqdbm14 zlib0 
+sdesc: "Hyper Estraier Encore: a full-text search system"
+ldesc: "Hyper Estraier is a full-text search system. You can search lots of documents for some documents including specified words. If you run a web site, it is useful as your own search engine for pages in your site. Also, it is useful as search utilities of mail boxes and file servers."
+external-source: hyperestraier-encore
