@@ -1,0 +1,6 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libassuan
+sdesc: "Debug info for libassuan"
+ldesc: "This package contains files necessary for debugging the
+libassuan package with gdb."
