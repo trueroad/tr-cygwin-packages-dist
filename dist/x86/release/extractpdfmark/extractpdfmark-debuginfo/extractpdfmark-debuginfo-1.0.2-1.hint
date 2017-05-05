@@ -1,0 +1,6 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: extractpdfmark
+sdesc: "Debug info for extractpdfmark"
+ldesc: "This package contains files necessary for debugging the
+extractpdfmark package with gdb."
