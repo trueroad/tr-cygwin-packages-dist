@@ -1,0 +1,6 @@
+category: Publishing Utils
+requires: cygwin libgcc1 libpoppler66 libstdc++6 
+sdesc: "Extract page mode and named destinations as PDFmark from PDF"
+ldesc: "Extract PDFmark is able to extract page mode
+and named destinations as PDFmark from PDF.
+By using this you can get the small PDF files that have preserved them."
