@@ -1,0 +1,5 @@
+category: Utils
+requires: bash cygwin libassuan0 libbz2_1 libgcc1 libgcrypt20 libgpg-error0 libiconv2 libintl8 libksba8 libpth20 zlib0 
+sdesc: "The GNU Privacy Guard"
+ldesc: "GnuPG is a complete and free implementation
+of the OpenPGP standard as defined by RFC4880 (also known as PGP)."
