@@ -1,0 +1,7 @@
+category: Devel Libs Graphics
+requires: libgs9 libfontconfig-devel libfreetype-devel libiconv-devel libidn-devel libjpeg-devel liblcms2-devel libpaper-devel libpng-devel libtiff-devel libX11-devel libXt-devel zlib-devel
+sdesc: "GPL PostScript interpreter (development)"
+ldesc: "GNU Ghostscript is a Postscript interpreter capable of converting PS
+files into a number of printer output formats. Ghostscript can also
+render PS files into a number of graphics file formats."
+external-source: ghostscript
