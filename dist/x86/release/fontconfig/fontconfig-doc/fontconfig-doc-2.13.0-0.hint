@@ -1,0 +1,7 @@
+category: Doc
+requires:  
+sdesc: "Font configuration library (API documentation)"
+ldesc: "Fontconfig is a library designed to provide system-wide font
+configuration, customization and application access."
+external-source: fontconfig
+
