@@ -1,0 +1,8 @@
+category: Libs
+requires: cygwin libfreetype6 libX11_6 
+sdesc: "FreeType font engine (demo programs)"
+ldesc: "FreeType 2 is a software font engine that is designed to be
+small, efficient, highly customizable and portable while capable of producing
+high-quality output (glyph images)."
+external-source: freetype2
+
