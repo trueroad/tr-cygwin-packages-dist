@@ -1,0 +1,6 @@
+category: Editors Interpreters
+requires: alternatives bash cygwin libdbus1_3 libgcc1 libgdk_pixbuf2.0_0 libgif7 libglib2.0_0 libgnutls30 libjpeg8 liblcms2_2 libMagickCore6_5 libMagickWand6_5 libncursesw10 libpng16 librsvg2_2 libtiff6 libxml2 libXpm-noX_4 zlib0 
+sdesc: "Emacs binaries with IME patch using the native Windows GUI."
+ldesc: "This package contains emacs binaries with IME patch
+that use the native Windows GUI for display."
+
