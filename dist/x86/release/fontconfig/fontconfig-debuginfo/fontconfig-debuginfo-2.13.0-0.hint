@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: fontconfig
+sdesc: "Debug info for fontconfig"
+ldesc: "This package contains files necessary for debugging the
+fontconfig package with gdb."
+
