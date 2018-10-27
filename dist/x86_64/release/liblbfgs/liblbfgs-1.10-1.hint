@@ -1,0 +1,7 @@
+category: Libs
+requires:  liblbfgs1
+sdesc: "L-BFGS nonlinear optimizer"
+ldesc: "This library is a C port of the implementation of
+Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS) method.
+The L-BFGS method solves the unconstrainted minimization problems."
+
