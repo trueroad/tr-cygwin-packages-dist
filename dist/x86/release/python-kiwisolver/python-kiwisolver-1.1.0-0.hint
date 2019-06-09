@@ -1,0 +1,6 @@
+category: Python
+requires:
+sdesc: "Efficient C++ implementation of the Cassowary constraint solving algorithm"
+ldesc: "Kiwi is an efficient C++ implementation of the Cassowary constraint solving algorithm."
+skip:
+
