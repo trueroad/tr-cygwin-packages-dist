@@ -1,0 +1,8 @@
+category: _obsolete
+requires: python36-matplotlib
+sdesc: "Obsoleted by python36-matplotlib"
+ldesc: "The python3-matplotlib package is obsolete.  Selecting this package for
+installation will cause the python36-matplotlib package, which replaces this
+one, to be installed instead."
+external-source: python-matplotlib
+
