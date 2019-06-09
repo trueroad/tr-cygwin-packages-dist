@@ -1,0 +1,7 @@
+category: Python
+requires: python36 python36-six 
+sdesc: "Composable cycles"
+ldesc: "Composable cycles"
+obsoletes: python3-cycler
+external-source: python-cycler
+
