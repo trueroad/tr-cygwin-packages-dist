@@ -1,0 +1,6 @@
+category: Graphics
+requires: libjpeg-devel libqpdf26 pkg-config zlib-devel 
+sdesc: "PDF transformation tool - development"
+ldesc: "command-line program that does structural, content-preserving transformations on PDF files"
+external-source: qpdf
+
