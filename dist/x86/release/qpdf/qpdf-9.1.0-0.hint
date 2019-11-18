@@ -1,0 +1,5 @@
+category: Graphics
+requires: cygwin libgcc1 libqpdf26 libstdc++6 perl_base 
+sdesc: "PDF transformation tool"
+ldesc: "command-line program that does structural, content-preserving transformations on PDF files"
+
