@@ -1,0 +1,9 @@
+category: Python
+requires: cygwin libfreetype6 libgcc1 libpng16 libstdc++6 python36 python36-cycler python36-dateutil python36-kiwisolver python36-numpy python36-pyparsing 
+sdesc: "matplotlib: plotting with Python"
+ldesc: "Matplotlib is a Python 2D plotting library
+which produces publication quality figures in a variety of hardcopy formats
+and interactive environments across platforms."
+obsoletes: python3-matplotlib
+external-source: python-matplotlib
+
