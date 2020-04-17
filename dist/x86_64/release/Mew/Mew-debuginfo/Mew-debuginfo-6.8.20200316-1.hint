@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: Mew
+sdesc: "Debug info for Mew"
+ldesc: "This package contains files necessary for debugging the
+Mew package with gdb."
+
