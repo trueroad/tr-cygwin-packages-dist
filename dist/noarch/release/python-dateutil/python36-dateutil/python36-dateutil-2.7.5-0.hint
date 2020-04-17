@@ -1,0 +1,8 @@
+category: Python
+requires: python36 python36-six 
+sdesc: "Useful extensions to the standard Python datetime features"
+ldesc: "The dateutil module provides powerful extensions
+to the standard datetime module, available in Python."
+obsoletes: python3-dateutil
+external-source: python-dateutil
+

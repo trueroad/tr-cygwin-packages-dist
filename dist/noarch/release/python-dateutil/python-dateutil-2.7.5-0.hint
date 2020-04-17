@@ -1,0 +1,7 @@
+category: Python
+requires:
+sdesc: "Useful extensions to the standard Python datetime features"
+ldesc: "The dateutil module provides powerful extensions
+to the standard datetime module, available in Python."
+skip:
+
