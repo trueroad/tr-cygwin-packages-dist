@@ -1,0 +1,7 @@
+category: Python
+requires: cygwin libgcc1 libstdc++6 python36 
+sdesc: "Efficient C++ implementation of the Cassowary constraint solving algorithm"
+ldesc: "Kiwi is an efficient C++ implementation of the Cassowary constraint solving algorithm."
+obsoletes: python3-kiwisolver
+external-source: python-kiwisolver
+
