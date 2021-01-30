@@ -1,0 +1,7 @@
+category: Python
+requires: cygwin libgcc1 libstdc++6 python38 python38-cycler python38-dateutil python38-imaging python38-kiwisolver python38-numpy python38-pyparsing python38-pytest 
+sdesc: "matplotlib: plotting with Python"
+ldesc: "Matplotlib is a Python 2D plotting library
+which produces publication quality figures in a variety of hardcopy formats
+and interactive environments across platforms."
+
