@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: python38-pandas
+sdesc: "Debug info for python38-pandas"
+ldesc: "This package contains files necessary for debugging the
+python38-pandas package with gdb."
+

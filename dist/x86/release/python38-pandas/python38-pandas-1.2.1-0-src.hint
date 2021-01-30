@@ -1,0 +1,9 @@
+category: Python
+build-depends: cygport gcc-core 	gcc-g++ 	python38 	python38-pip 	python38-wheel 	python38-devel 	python38-numpy 	python38-dateutil 	python38-pytz 	python38-pytest 	python38-setuptools 	python38-cython
+sdesc: "powerful Python data analysis toolkit"
+ldesc: "pandas is a fast, powerful,
+flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language."
+skip:
+
+homepage: https://pandas.pydata.org/
