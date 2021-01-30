@@ -1,0 +1,6 @@
+category: Editors Utils
+requires:  
+sdesc: "Emulator of GNU Emacs IME patch"
+ldesc: "Emulator of GNU Emacs IME patch for Windows (tr-ime) emulates the C implementation part of an IME patch for GNU Emacs that allows to input Japanese using the Windows IME (Input Method Editor)."
+external-source: tr-ime
+
