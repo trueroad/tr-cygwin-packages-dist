@@ -1,0 +1,7 @@
+category: Python
+build-depends: cygport python38 	python38-pip 	python38-wheel
+sdesc: "Seamless operability between C++11 and Python"
+ldesc: "Seamless operability between C++11 and Python"
+skip:
+
+homepage: https://pybind11.readthedocs.io/en/stable/
