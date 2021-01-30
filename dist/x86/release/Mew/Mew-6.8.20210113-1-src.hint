@@ -1,0 +1,7 @@
+category: Mail
+build-depends: cygport 
+sdesc: "Messaging in the Emacs World"
+ldesc: "Mew is a user interface for text messages, multimedia messages (MIME), news articles and security functionality including PGP, S/MIME, SSH, and SSL. Also, Mew can work with the recent search services. "
+skip:
+
+homepage: http://www.mew.org/
