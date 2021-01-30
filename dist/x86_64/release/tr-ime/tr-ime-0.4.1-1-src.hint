@@ -1,0 +1,7 @@
+category: Editors Utils
+build-depends: cygport gcc-core 	gcc-g++ 	w32api-headers 	w32api-runtime 	emacs-common
+sdesc: "Emulator of GNU Emacs IME patch"
+ldesc: "Emulator of GNU Emacs IME patch for Windows (tr-ime) emulates the C implementation part of an IME patch for GNU Emacs that allows to input Japanese using the Windows IME (Input Method Editor)."
+skip:
+
+homepage: https://github.com/trueroad/tr-emacs-ime-module
