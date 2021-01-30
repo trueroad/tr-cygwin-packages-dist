@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: tr-ime
+sdesc: "Debug info for tr-ime"
+ldesc: "This package contains files necessary for debugging the
+tr-ime package with gdb."
+
