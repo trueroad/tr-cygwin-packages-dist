@@ -1,0 +1,11 @@
+category: Python
+build-depends: cygport gcc-core 	gcc-g++ 	gcc-fortran 	liblapack-devel 	libcrypt-devel 	python39 	python39-pip 	python39-wheel 	python39-devel 	python39-numpy 	python39-pybind11 	python39-pytest
+sdesc: "Python scientific computing module"
+ldesc: "SciPy (pronounced 'Sigh Pie') is open-source software
+for mathematics, science, and engineering.
+It includes modules for statistics, optimization, integration,
+linear algebra, Fourier transforms, signal and image processing,
+ODE solvers, and more."
+skip:
+
+homepage: https://www.scipy.org/
