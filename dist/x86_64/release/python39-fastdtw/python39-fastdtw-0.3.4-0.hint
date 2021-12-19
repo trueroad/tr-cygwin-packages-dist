@@ -1,0 +1,5 @@
+category: Python
+requires: cygwin libgcc1 libstdc++6 python39 python39-numpy 
+sdesc: "Dynamic Time Warping (DTW) algorithm with an O(N) time and memory complexity"
+ldesc: "Dynamic Time Warping (DTW) algorithm with an O(N) time and memory complexity."
+
