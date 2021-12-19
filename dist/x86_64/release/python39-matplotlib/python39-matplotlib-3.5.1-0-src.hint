@@ -1,0 +1,9 @@
+category: Python
+build-depends: cygport gcc-core 	gcc-g++ 	libfreetype-devel 	libpng-devel 	python39 	python39-pip 	python39-wheel 	python39-devel 	python39-numpy 	python39-cycler 	python39-dateutil 	python39-kiwisolver 	python39-pyparsing 	python39-imaging 	python39-pytest
+sdesc: "matplotlib: plotting with Python"
+ldesc: "Matplotlib is a Python 2D plotting library
+which produces publication quality figures in a variety of hardcopy formats
+and interactive environments across platforms."
+skip:
+
+homepage: https://matplotlib.org/
