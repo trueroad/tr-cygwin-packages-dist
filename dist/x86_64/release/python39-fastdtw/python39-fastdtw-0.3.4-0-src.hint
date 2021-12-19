@@ -1,0 +1,7 @@
+category: Python
+build-depends: cygport python39 	python39-pip 	python39-wheel 	python39-numpy 	gcc-g++
+sdesc: "Dynamic Time Warping (DTW) algorithm with an O(N) time and memory complexity"
+ldesc: "Dynamic Time Warping (DTW) algorithm with an O(N) time and memory complexity."
+skip:
+
+homepage: https://github.com/slaypni/fastdtw
