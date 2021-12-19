@@ -1,0 +1,7 @@
+category: Python
+build-depends: cygport python39 	python39-pip 	python39-wheel 	python39-ply 	python39-numpy 	python39-gast 	python39-beniget
+sdesc: "Ahead of Time compiler for numeric kernels"
+ldesc: "Pythran is an ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface descriptions and turns it into a native Python module with the same interface, but (hopefully) faster."
+skip:
+
+homepage: https://github.com/serge-sans-paille/pythran
