@@ -1,0 +1,7 @@
+category: Python
+requires: cygwin libgcc1 libstdc++6 python39 python39-dateutil python39-hypothesis python39-markupsafe python39-numpy python39-pytest python39-pytz python39-setuptools 
+sdesc: "powerful Python data analysis toolkit"
+ldesc: "pandas is a fast, powerful,
+flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language."
+

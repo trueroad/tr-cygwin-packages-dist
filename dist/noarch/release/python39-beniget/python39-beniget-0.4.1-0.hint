@@ -1,0 +1,5 @@
+category: Python
+requires: python39 python39-gast 
+sdesc: "Extract semantic information about static Python code"
+ldesc: "A static analyzer for Python2 and Python3 code."
+

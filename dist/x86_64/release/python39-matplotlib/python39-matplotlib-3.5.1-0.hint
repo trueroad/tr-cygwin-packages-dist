@@ -1,0 +1,7 @@
+category: Python
+requires: cygwin libgcc1 libstdc++6 python39 python39-cycler python39-dateutil python39-imaging python39-jinja2 python39-kiwisolver python39-numpy python39-packaging python39-pyparsing python39-pytest 
+sdesc: "matplotlib: plotting with Python"
+ldesc: "Matplotlib is a Python 2D plotting library
+which produces publication quality figures in a variety of hardcopy formats
+and interactive environments across platforms."
+

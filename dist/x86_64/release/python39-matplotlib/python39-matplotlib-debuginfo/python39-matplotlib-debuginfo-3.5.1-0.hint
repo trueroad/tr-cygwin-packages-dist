@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: python39-matplotlib
+sdesc: "Debug info for python39-matplotlib"
+ldesc: "This package contains files necessary for debugging the
+python39-matplotlib package with gdb."
+

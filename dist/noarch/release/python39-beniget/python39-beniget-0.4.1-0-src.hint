@@ -1,0 +1,7 @@
+category: Python
+build-depends: cygport python39 	python39-pip 	python39-wheel 	python39-gast
+sdesc: "Extract semantic information about static Python code"
+ldesc: "A static analyzer for Python2 and Python3 code."
+skip:
+
+homepage: https://github.com/serge-sans-paille/beniget
